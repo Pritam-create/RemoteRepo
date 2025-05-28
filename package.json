@@ -1,0 +1,24 @@
+{
+  "name": "remoterepo",
+  "version": "1.0.0",
+  "description": "This is a demo repo",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/princeyadav9090/remoteRepo.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/princeyadav9090/remoteRepo/issues"
+  },
+  "homepage": "https://github.com/princeyadav9090/remoteRepo#readme",
+  "dependencies": {
+    "body-parser": "^2.2.0",
+    "ejs": "^3.1.10",
+    "express": "^5.1.0"
+  }
+}
